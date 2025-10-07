@@ -28,7 +28,8 @@ url: samgill00.github.io/samgill.github.io # the base hostname & protocol for yo
 github_username:  samgill00
 
 # Build settings
-#remote_theme: pages-themes/architect@v0.2.0
+#remote_theme: "jekyll/minima@1e8a445"
+#this is fiine but it needs remote support for other themes (not local)
 theme: minima
 plugins:
   - jekyll-feed
