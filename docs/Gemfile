@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 #gem for using a remote theme for local testing 
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 
 
 
