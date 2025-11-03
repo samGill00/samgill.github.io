@@ -12,7 +12,7 @@ University of Lincoln graduate in 2025 with BSc (Hons) Computer Science student 
 
 # Projects 
 * [Trade Hive](./barter.md).
-
+* [FixFlow](./fixflow.md).
 # Certificates 	
 *	Azure Fundamentals - 2023  
 *	Azure Data Fundamentals - 2023  
