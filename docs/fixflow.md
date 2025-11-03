@@ -19,6 +19,7 @@ FixFlow is a bug tracking fullstack web appplication which uses react framework 
 <img src="{{ site.baseurl }}/assets/images/home-page.png" alt="Home" style="width:550px;" />
 
 * To go to a specific porject click on the title and it opens a new page with full details of that project along with the bugs in that project. 
+
 * It also provides you the opputunity to add new bugs/projects and delete those as neccessary, which is handled using React hooks: useeffect and usestate and seeding with Flask API (backend)
 
 <img src="{{ site.baseurl }}/assets/images/bug-page.png" alt="Home" style="width:550px;" />
